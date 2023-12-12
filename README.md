@@ -40,3 +40,7 @@ Berlendis, A.; Canonica, G. A new tool to assess and monitor the burden of
 chronic cough on quality of life: Chronic Cough Impact Questionnaire. Allergy
 2005, 60, 482–488.
 
+[2] Nathan, R.A.; Sorkness, C.A.; Kosinski, M.; Schatz, M.; Li, J.T.; Marcus, P.;
+Murray, J.J.; Pendergraft, T.B. Development of the asthma control test: a survey
+for assessing asthma control. Journal of Allergy and Clinical Immunology 2004,
+113, 59–65
